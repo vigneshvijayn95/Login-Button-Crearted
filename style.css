@@ -1,0 +1,29 @@
+.button{
+    outline : 0px; 
+    border: none; 
+    min-width: 100px;
+    padding: 5px 20px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+     }
+     input  {
+     border: 1px solid blue;
+     height: 30px;
+     border-radius: 5px;
+     padding-inline-start: 10px;
+     }
+
+input :focus-visible {
+outline: 2px solid rgb(28, 28, 185);
+}
+     button{
+margin: 0px auto;
+max-width: 500px;
+     }
+
+
+
+    
